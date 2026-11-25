@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://yt-mlflow-bucket-157328692976-ap-south-2-an
